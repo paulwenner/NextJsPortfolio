@@ -1,0 +1,99 @@
+{
+  "buttons": {
+    "language_de": "DE",
+    "language_en": "EN"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Über mich",
+    "projects": "Projekte",
+    "blog": "Letzer Post",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Hallo, ich bin Paul –",
+    "subtitle": "Informatiker & Programmierer",
+    "description": "Kraftsportler, Krypto-Enthusiast und auf dem Weg zum erfolgreichen Informatiker.",
+    "slogan": "Programmieren ist Kunst – und der Code ist meine Leinwand."
+  },
+  "social": {
+    "linkedin": "LinkedIn-Profil",
+    "instagram": "Instagram-Profil",
+    "twitter": "Twitter-Profil"
+  },
+  "projects": {
+    "crateflow": {
+      "title": "Crateflow",
+      "description": "Meine Arbeit bei Crateflow umfasst die Entwicklung von Frontend- und Backend-Funktionen. Ein besonderer Fokus lag auf der Benutzeroberfläche, die den Benutzern ermöglicht, ihre Daten effizient zu visualisieren. Das Projekt beinhaltet moderne Technologien wie React, TypeScript und Docker."
+    },
+    "cs50": {
+      "title": "Harvard CS50 Kurse",
+      "description": "Ich habe mehrere Kurse der renommierten CS50-Serie von Harvard abgeschlossen, darunter CS50x, CS50Python, CS50Web und CS50Cybersecurity. Diese Kurse haben meine Fähigkeiten in Programmierung, Webentwicklung und Cybersicherheit maßgeblich erweitert. Bei den letzten beiden Kursen habe ich kein Final Project abgeschlossen, da ich parallel mit Crateflow begonnen habe."
+    },
+    "clients": {
+      "title": "Kundenwebseiten",
+      "description": "Ich erstelle professionelle und ansprechende Webseiten für Kunden mithilfe von WordPress und Webflow. Durch maßgeschneiderte Designs und effiziente Entwicklungsprozesse gewährleiste ich, dass jede Webseite nicht nur optisch überzeugt, sondern auch funktional und benutzerfreundlich ist. Mein Service umfasst komplette Webseitenentwicklung, von der Konzeption über das Design bis hin zur Implementierung und Wartung."
+    }
+  },
+  "about": {
+    "title": "Über mich",
+    "experience": [
+      {
+        "title": "Praktikant",
+        "company": "Deutscher Bundestag",
+        "date": "Januar 2023",
+        "location": "Berlin, Deutschland (Vor Ort)",
+        "description": [
+          "Erstellte Medienübersichten für regionale Zeitungen zur Unterstützung politischer Entscheidungsfindung.",
+          "Entwarf ansprechende Inhalte für soziale Medien, um die politische Präsenz zu stärken."
+        ],
+        "skills": "Content Creation, Social Media Strategy"
+      },
+      {
+        "title": "Trainee",
+        "company": "Crateflow",
+        "date": "März 2024 - Gegenwart",
+        "location": "Kaiserslautern, Deutschland (Hybrid)",
+        "description": [
+          "Entwickelte und wartete Backend-Anwendungen mit Django.",
+          "Erstellte interaktive Frontend-Komponenten mit React.",
+          "Verbesserte die Systemleistung durch Optimierung von Datenbankabfragen und API-Endpunkten."
+        ],
+        "skills": "JavaScript, Django, React"
+      }
+    ]
+  },
+  "github": {
+    "title": "Mein GitHub",
+    "description": "Hier ein kleiner Einblick in meine Repositories auf GitHub."
+  },
+  "blog": {
+    "title": "Blog",
+    "posts": {
+      "django_first_app": {
+        "title": "Wie ich meine erste Django-App gebaut habe",
+        "description": "Ein kurzer Einblick in meinen Entwicklungsprozess, meine Herausforderungen und wie ich sie gelöst habe."
+      },
+      "ai_python": {
+        "title": "Künstliche Intelligenz: Wie man ein einfaches KI-Modell in Python aufsetzt",
+        "description": "Eine Einführung in Machine Learning und KI – ideal für Einsteiger, die erste Experimente wagen wollen."
+      }
+    },
+    "readMore": "Weiterlesen"
+  },
+  "contact": {
+    "title": "Lust auf eine Zusammenarbeit?",
+    "description": "Du hast ein Projekt oder möchtest einfach nur „Hallo“ sagen? Schreib mir!",
+    "form": {
+      "success": "Vielen Dank für deine Nachricht! Ich werde mich so schnell wie möglich bei dir melden.",
+      "error": "Es ist ein Fehler aufgetreten. Bitte versuche es später erneut.",
+      "name": "Dein Name",
+      "email": "Deine E-Mail-Adresse",
+      "message": "Deine Nachricht...",
+      "button": "Nachricht senden"
+    }
+  },
+  "footer": {
+    "rights": "© {{year}} Paul Wenner. Alle Rechte vorbehalten."
+  }
+}
