@@ -1,11 +1,11 @@
 {
   "buttons": {
-    "language_de": "DE",
-    "language_en": "EN"
+    "language_de": "German",
+    "language_en": "English"
   },
   "nav": {
     "home": "Home",
-    "about": "About",
+    "about": "About Me",
     "projects": "Projects",
     "blog": "Blog",
     "contact": "Contact"
@@ -14,21 +14,21 @@
     "title": "Hi, I'm Paul –",
     "subtitle": "Software Developer & Programmer",
     "description": "Bodybuilder, crypto enthusiast, and aspiring successful computer scientist.",
-    "slogan": "Programming is art – and code is my canvas."
+    "slogan": "Programming is my art – code is my canvas."
   },
   "social": {
-    "linkedin": "LinkedIn Profile",
-    "instagram": "Instagram Profile",
-    "twitter": "Twitter Profile"
+    "linkedin": "My LinkedIn Profile",
+    "instagram": "My Instagram Profile",
+    "twitter": "My Twitter Profile"
   },
   "projects": {
     "crateflow": {
       "title": "Crateflow",
-      "description": "My work at Crateflow focuses on developing frontend and backend functionalities. A particular focus was on the user interface, enabling users to efficiently visualize their data. The project includes modern technologies like React, TypeScript, and Docker."
+      "description": "My work at Crateflow focuses on developing frontend and backend functionalities. A particular focus is on the user interface, enabling users to efficiently visualize their data. The project utilizes modern technologies like React, TypeScript, and Docker."
     },
     "cs50": {
       "title": "Harvard CS50 Courses",
-      "description": "I have completed several courses in Harvard's renowned CS50 series, including CS50x, CS50Python, CS50Web, and CS50Cybersecurity. These courses have significantly enhanced my skills in programming, web development, and cybersecurity. I did not complete final projects in the last two courses because I started working on Crateflow in parallel."
+      "description": "I have completed several courses in Harvard's renowned CS50 series, including CS50x, CS50Python, CS50Web, and CS50Cybersecurity. These courses have significantly enhanced my skills in programming, web development, and cybersecurity. I did not complete the final projects for the last two courses due to starting my work at Crateflow in parallel."
     },
     "clients": {
       "title": "Client Websites",
@@ -44,7 +44,7 @@
         "date": "January 2023",
         "location": "Berlin, Germany (Onsite)",
         "description": [
-          "Compiled media overviews for regional newspapers to support political decision-making.",
+          "Compiled media overviews of regional newspapers to support political decision-making.",
           "Designed engaging social media content to strengthen political presence."
         ],
         "skills": "Content Creation, Social Media Strategy"
@@ -57,7 +57,7 @@
         "description": [
           "Developed and maintained backend applications using Django.",
           "Created interactive frontend components with React.",
-          "Improved system performance through optimization of database queries and API endpoints."
+          "Improved system performance by optimizing database queries and API endpoints."
         ],
         "skills": "JavaScript, Django, React"
       }
@@ -65,27 +65,27 @@
   },
   "github": {
     "title": "My GitHub",
-    "description": "Here is a small insight into my repositories on GitHub."
+    "description": "Here's a little insight into my repositories on GitHub."
   },
   "blog": {
-    "title": "Latest Post",
+    "title": "Blog",
     "posts": {
       "django_first_app": {
         "title": "How I Built My First Django App",
         "description": "A brief insight into my development process, challenges, and how I solved them."
       },
       "ai_python": {
-        "title": "Artificial Intelligence: How to Set Up a Simple AI Model in Python",
-        "description": "An introduction to machine learning and AI – ideal for beginners who want to embark on their first experiments."
+        "title": "Artificial Intelligence: Setting Up a Simple AI Model in Python",
+        "description": "An introduction to machine learning and AI – ideal for beginners looking to embark on their first experiments."
       }
     },
-    "readMore": "Read more"
+    "readMore": "Read More"
   },
   "contact": {
-    "title": "Interested in collaborating?",
+    "title": "Interested in Collaborating?",
     "description": "Do you have a project or just want to say 'Hello'? Contact me!",
     "form": {
-      "success": "Your message has been sent successfully.",
+      "success": "Your message has been sent successfully. I will get back to you as soon as possible.",
       "error": "An error occurred while sending your message. Please try again later.",
       "name": "Your Name",
       "email": "Your Email Address",

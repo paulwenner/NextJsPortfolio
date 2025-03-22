@@ -1,63 +1,63 @@
 {
   "buttons": {
-    "language_de": "DE",
-    "language_en": "EN"
+    "language_de": "Deutsch",
+    "language_en": "Englisch"
   },
   "nav": {
-    "home": "Home",
+    "home": "Startseite",
     "about": "Über mich",
     "projects": "Projekte",
-    "blog": "Letzer Post",
+    "blog": "Blog",
     "contact": "Kontakt"
   },
   "hero": {
     "title": "Hallo, ich bin Paul –",
     "subtitle": "Informatiker & Programmierer",
-    "description": "Kraftsportler, Krypto-Enthusiast und auf dem Weg zum erfolgreichen Informatiker.",
-    "slogan": "Programmieren ist Kunst – und der Code ist meine Leinwand."
+    "description": "Meine Leidenschaft gilt der Softwareentwicklung, dem Kraftsport und der Welt der Kryptowährungen.",
+    "slogan": "Programmieren ist meine Kunst – der Code meine Leinwand."
   },
   "social": {
-    "linkedin": "LinkedIn-Profil",
-    "instagram": "Instagram-Profil",
-    "twitter": "Twitter-Profil"
+    "linkedin": "Mein LinkedIn-Profil",
+    "instagram": "Mein Instagram-Profil",
+    "twitter": "Mein Twitter-Profil"
   },
   "projects": {
     "crateflow": {
       "title": "Crateflow",
-      "description": "Meine Arbeit bei Crateflow umfasst die Entwicklung von Frontend- und Backend-Funktionen. Ein besonderer Fokus lag auf der Benutzeroberfläche, die den Benutzern ermöglicht, ihre Daten effizient zu visualisieren. Das Projekt beinhaltet moderne Technologien wie React, TypeScript und Docker."
+      "description": "Bei Crateflow entwickle ich Frontend- und Backend-Funktionen. Ein besonderer Fokus liegt auf der Benutzeroberfläche, die es Nutzern ermöglicht, Ihre Daten effizient zu visualisieren. Das Projekt nutzt moderne Technologien wie React, TypeScript und Docker."
     },
     "cs50": {
       "title": "Harvard CS50 Kurse",
-      "description": "Ich habe mehrere Kurse der renommierten CS50-Serie von Harvard abgeschlossen, darunter CS50x, CS50Python, CS50Web und CS50Cybersecurity. Diese Kurse haben meine Fähigkeiten in Programmierung, Webentwicklung und Cybersicherheit maßgeblich erweitert. Bei den letzten beiden Kursen habe ich kein Final Project abgeschlossen, da ich parallel mit Crateflow begonnen habe."
+      "description": "Ich habe mehrere Kurse der renommierten CS50-Reihe von Harvard abgeschlossen, darunter CS50x, CS50Python, CS50Web und CS50Cybersecurity. Diese Kurse haben meine Fähigkeiten in Programmierung, Webentwicklung und Cybersicherheit maßgeblich erweitert. Die Final Projects der letzten beiden Kurse habe ich aufgrund des parallelen Starts bei Crateflow nicht abgeschlossen."
     },
     "clients": {
       "title": "Kundenwebseiten",
-      "description": "Ich erstelle professionelle und ansprechende Webseiten für Kunden mithilfe von WordPress und Webflow. Durch maßgeschneiderte Designs und effiziente Entwicklungsprozesse gewährleiste ich, dass jede Webseite nicht nur optisch überzeugt, sondern auch funktional und benutzerfreundlich ist. Mein Service umfasst komplette Webseitenentwicklung, von der Konzeption über das Design bis hin zur Implementierung und Wartung."
+      "description": "Ich erstelle professionelle und ansprechende Webseiten für Kunden mit WordPress und Webflow. Durch maßgeschneiderte Designs und effiziente Entwicklungsprozesse stelle ich sicher, dass jede Webseite nicht nur optisch überzeugt, sondern auch funktional und benutzerfreundlich ist. Mein Service umfasst die komplette Webseitenentwicklung von der Konzeption über das Design bis zur Implementierung und Wartung."
     }
   },
   "about": {
     "title": "Über mich",
     "experience": [
       {
-        "title": "Praktikant",
+        "title": "Praktikum",
         "company": "Deutscher Bundestag",
         "date": "Januar 2023",
         "location": "Berlin, Deutschland (Vor Ort)",
         "description": [
-          "Erstellte Medienübersichten für regionale Zeitungen zur Unterstützung politischer Entscheidungsfindung.",
-          "Entwarf ansprechende Inhalte für soziale Medien, um die politische Präsenz zu stärken."
+          "Erstellung von Medienübersichten regionaler Zeitungen zur Unterstützung politischer Entscheidungen.",
+          "Entwurf ansprechender Social-Media-Inhalte zur Stärkung der politischen Präsenz."
         ],
-        "skills": "Content Creation, Social Media Strategy"
+        "skills": "Content Creation, Social Media Strategie"
       },
       {
         "title": "Trainee",
         "company": "Crateflow",
-        "date": "März 2024 - Gegenwart",
+        "date": "März 2024 - Heute",
         "location": "Kaiserslautern, Deutschland (Hybrid)",
         "description": [
-          "Entwickelte und wartete Backend-Anwendungen mit Django.",
-          "Erstellte interaktive Frontend-Komponenten mit React.",
-          "Verbesserte die Systemleistung durch Optimierung von Datenbankabfragen und API-Endpunkten."
+          "Entwicklung und Wartung von Backend-Anwendungen mit Django.",
+          "Erstellung interaktiver Frontend-Komponenten mit React.",
+          "Verbesserung der Systemleistung durch Optimierung von Datenbankabfragen und API-Endpunkten."
         ],
         "skills": "JavaScript, Django, React"
       }
@@ -65,31 +65,31 @@
   },
   "github": {
     "title": "Mein GitHub",
-    "description": "Hier ein kleiner Einblick in meine Repositories auf GitHub."
+    "description": "Ein kleiner Einblick in meine Repositories auf GitHub."
   },
   "blog": {
     "title": "Blog",
     "posts": {
       "django_first_app": {
         "title": "Wie ich meine erste Django-App gebaut habe",
-        "description": "Ein kurzer Einblick in meinen Entwicklungsprozess, meine Herausforderungen und wie ich sie gelöst habe."
+        "description": "Ein kurzer Einblick in meinen Entwicklungsprozess, meine Herausforderungen und deren Lösungen."
       },
       "ai_python": {
-        "title": "Künstliche Intelligenz: Wie man ein einfaches KI-Modell in Python aufsetzt",
-        "description": "Eine Einführung in Machine Learning und KI – ideal für Einsteiger, die erste Experimente wagen wollen."
+        "title": "Künstliche Intelligenz: Ein einfaches KI-Modell in Python aufsetzen",
+        "description": "Eine Einführung in Machine Learning und KI – ideal für Einsteiger, die erste Experimente wagen möchten."
       }
     },
-    "readMore": "Weiterlesen"
+    "readMore": "Mehr lesen"
   },
   "contact": {
-    "title": "Lust auf eine Zusammenarbeit?",
-    "description": "Du hast ein Projekt oder möchtest einfach nur „Hallo“ sagen? Schreib mir!",
+    "title": "Interesse an einer Zusammenarbeit?",
+    "description": "Du hast ein Projekt oder möchtest einfach nur hallo sagen? Schreib mir!",
     "form": {
-      "success": "Vielen Dank für deine Nachricht! Ich werde mich so schnell wie möglich bei dir melden.",
-      "error": "Es ist ein Fehler aufgetreten. Bitte versuche es später erneut.",
+      "success": "Vielen Dank für Ihre Nachricht! Ich melde mich so schnell wie möglich.",
+      "error": "Beim Senden Ihre Nachricht ist ein Fehler aufgetreten. Bitte versuche es später noch einmal.",
       "name": "Dein Name",
-      "email": "Deine E-Mail-Adresse",
-      "message": "Deine Nachricht...",
+      "email": "Ihre E-Mail-Adresse",
+      "message": "Ihre Nachricht...",
       "button": "Nachricht senden"
     }
   },
